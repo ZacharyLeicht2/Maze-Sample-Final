@@ -70,12 +70,6 @@ public class MazeWorld extends World
             addObject( new Wall("edge2.png"), 185, 280 + 50*i);
         }
         
-        //Partial vertical wall middle starting (350,163)
-        for(int i = 0; i < 4; i++)
-        {
-            addObject( new Wall("edge2.png"), 350, 163 + 50*i);
-        }
-        
         //Partial horizontal wall starting (363,325)
         for(int i = 0; i < 6; i++)
         {
