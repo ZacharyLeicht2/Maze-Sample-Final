@@ -1,15 +1,15 @@
 #Greenfoot properties
-#Thu Apr 22 07:21:17 EDT 2021
+#Thu Apr 22 07:33:39 EDT 2021
 readme.name=@README
-target2.naviview.expanded=true
 target2.name=MazeWorld
+target2.naviview.expanded=true
 target2.editor.height=700
 dependency1.from=MazeWorld
 target2.showInterface=false
 target1.type=ClassTarget
 target2.y=0
-target2.x=0
 package.numTargets=2
+target2.x=0
 target1.height=50
 class.Wall.superclass=greenfoot.Actor
 target1.y=0
@@ -40,9 +40,9 @@ world.lastInstantiated=MazeWorld
 class.MazeWorld.superclass=greenfoot.World
 dependency1.type=UsesDependency
 target2.editor.y=20
-version=3.0.0
 target2.editor.x=40
+version=3.0.0
 package.numDependencies=1
 project.charset=UTF-8
-readme.height=58
 target2.editor.width=900
+readme.height=58
